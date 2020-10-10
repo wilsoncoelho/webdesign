@@ -1,0 +1,77 @@
+
+
+.btnReadMore {
+  padding:10px 20px;
+  margin:20px 0px;
+  border: 1px black solid;
+  background-color: white;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: px;
+  border-radius: 5px;
+}
+
+.btnReadMore:hover {
+  padding:10px 20px;
+  margin:10px 0px;
+  border: 1px black solid;
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: px;
+  border-radius: 5px;
+}
+//-----------------------------------------------------------------------
+
+
+
+// .articledes h2 {
+//   text-transform: uppercase;
+//   color: black;
+//   font-weight: bold;
+//   letter-spacing: 0.5px;
+// }
+
+// .articledes p {
+//   color: black;
+//   font-weight: normal;
+// }
+
+// .articledes h4 {
+//   text-transform: capitalize;
+//   color: darkslategrey;
+//   font-weight: lighter;
+// }
+
+
+.article {
+  font-family: 'Raleway', sans serif;
+  background-color: white;  
+  margin: 16px;
+  text-align: justify;
+  background-color: f1f1f1;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.article img {
+  width: 100%;
+}
+
+.articledes{
+  margin:10px 10px;
+}
+
+.articledes p{
+  margin:10px 0px ;
+  display: block;
+  font-weight: lighter;
+  margin-block-start: 2em;
+  margin-block-end: 2em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.article h2{
+  margin:10px 0px;
+}
